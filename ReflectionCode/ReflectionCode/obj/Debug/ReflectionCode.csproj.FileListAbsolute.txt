@@ -1,0 +1,10 @@
+E:\hc\新建文件夹\ReflectionCode\ReflectionCode\bin\Debug\ReflectionCode.exe
+E:\hc\新建文件夹\ReflectionCode\ReflectionCode\bin\Debug\ReflectionCode.pdb
+E:\hc\新建文件夹\ReflectionCode\ReflectionCode\obj\Debug\ReflectionCode.Form1.resources
+E:\hc\新建文件夹\ReflectionCode\ReflectionCode\obj\Debug\ReflectionCode.Properties.Resources.resources
+E:\hc\新建文件夹\ReflectionCode\ReflectionCode\obj\Debug\ReflectionCode.csproj.GenerateResource.Cache
+E:\hc\新建文件夹\ReflectionCode\ReflectionCode\obj\Debug\ReflectionCode.exe
+E:\hc\新建文件夹\ReflectionCode\ReflectionCode\obj\Debug\ReflectionCode.pdb
+E:\hc\新建文件夹\ReflectionCode\ReflectionCode\obj\Debug\ReflectionCode.csprojResolveAssemblyReference.cache
+E:\hc\新建文件夹\ReflectionCode\ReflectionCode\bin\Debug\ClassOne.dll
+E:\hc\新建文件夹\ReflectionCode\ReflectionCode\bin\Debug\ClassOne.pdb

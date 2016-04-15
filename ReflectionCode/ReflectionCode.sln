@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflectionCode", "ReflectionCode\ReflectionCode.csproj", "{51477E2B-8D8D-417D-BC84-72695A96B2C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassOne", "ClassOne\ClassOne.csproj", "{DC2A35B6-8267-4104-869A-86CDB7518607}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51477E2B-8D8D-417D-BC84-72695A96B2C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51477E2B-8D8D-417D-BC84-72695A96B2C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51477E2B-8D8D-417D-BC84-72695A96B2C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51477E2B-8D8D-417D-BC84-72695A96B2C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC2A35B6-8267-4104-869A-86CDB7518607}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC2A35B6-8267-4104-869A-86CDB7518607}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC2A35B6-8267-4104-869A-86CDB7518607}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC2A35B6-8267-4104-869A-86CDB7518607}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

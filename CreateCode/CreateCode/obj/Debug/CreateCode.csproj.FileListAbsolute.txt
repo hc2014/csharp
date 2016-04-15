@@ -1,0 +1,8 @@
+E:\hc\新建文件夹\CreateCode\CreateCode\bin\Debug\CreateCode.exe
+E:\hc\新建文件夹\CreateCode\CreateCode\bin\Debug\CreateCode.pdb
+E:\hc\新建文件夹\CreateCode\CreateCode\obj\Debug\CreateCode.csprojResolveAssemblyReference.cache
+E:\hc\新建文件夹\CreateCode\CreateCode\obj\Debug\CreateCode.Form1.resources
+E:\hc\新建文件夹\CreateCode\CreateCode\obj\Debug\CreateCode.Properties.Resources.resources
+E:\hc\新建文件夹\CreateCode\CreateCode\obj\Debug\CreateCode.csproj.GenerateResource.Cache
+E:\hc\新建文件夹\CreateCode\CreateCode\obj\Debug\CreateCode.exe
+E:\hc\新建文件夹\CreateCode\CreateCode\obj\Debug\CreateCode.pdb
