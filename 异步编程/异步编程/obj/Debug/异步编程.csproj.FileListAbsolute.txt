@@ -1,0 +1,9 @@
+E:\hc\新建文件夹\异步编程\异步编程\bin\Debug\异步编程.exe.config
+E:\hc\新建文件夹\异步编程\异步编程\bin\Debug\异步编程.exe
+E:\hc\新建文件夹\异步编程\异步编程\bin\Debug\异步编程.pdb
+E:\hc\新建文件夹\异步编程\异步编程\obj\Debug\异步编程.csprojResolveAssemblyReference.cache
+E:\hc\新建文件夹\异步编程\异步编程\obj\Debug\异步编程.Form1.resources
+E:\hc\新建文件夹\异步编程\异步编程\obj\Debug\异步编程.Properties.Resources.resources
+E:\hc\新建文件夹\异步编程\异步编程\obj\Debug\异步编程.csproj.GenerateResource.Cache
+E:\hc\新建文件夹\异步编程\异步编程\obj\Debug\异步编程.exe
+E:\hc\新建文件夹\异步编程\异步编程\obj\Debug\异步编程.pdb
