@@ -53,9 +53,9 @@
  4.0框架：cd C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319
  2.0框架：cd C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727
 ###2.安装服务（项目生成的exe文件路径）
-InstallUtil C:\Users\hc\Desktop\工作目录\esAPI\DotNet.CommonV4.1\PushTradeService\bin\Debug\PushTradeService.exe
+>InstallUtil  C:\Users\hc\Desktop\工作目录\esAPI\DotNet.CommonV4.1\PushTradeService\bin\Debug\PushTradeService.exe
 ###3.卸载服务
-InstallUtil /u C:\Users\hc\Desktop\工作目录\esAPI\DotNet.CommonV4.1\PushTradeService\bin\Debug\PushTradeService.exe
+>InstallUtil  /u  C:\Users\hc\Desktop\工作目录\esAPI\DotNet.CommonV4.1\PushTradeService\bin\Debug\PushTradeService.exe
 
 注意:这个时候执行可能会报一个错误:**System.Security.SecurityException: 未找到源,但未能搜索某些或全部事件日志。**
 
@@ -67,10 +67,17 @@ InstallUtil /u C:\Users\hc\Desktop\工作目录\esAPI\DotNet.CommonV4.1\PushTrad
 ###2.控制面板-->管理工具-->服务
 可以在服务里面手动开启、停止服务,当然也是可以写命令来的
 
->开启:net statr PushTradeService
+>开启:net statr PushTradeService</br>
 >停止:net stop PushTradeService
 然后把上面2句话分别保存成为bat文件即可!
 
 
 #五.调试window服务
+###1.通过【事件查看器】查看
+这种方式太专业了,而且调试代码也不直观
+
+###2.直接在程序中调试（菜单-->调试-->附加进程-->服务名(这里的服务名是项目名称，不是ServiceName属性自定义的名称，所以建议自定义名称和项###目名称保持一致，另外需勾选【显示所有用户的进程】才能看到服务名）-->附加
+
+###3.在程序中打断点调试即可，另外调试服务时服务必须已启动(管理工具-->服务)
+###4.代码修改后需要重新生成,重新生成前必须关闭服务
 
