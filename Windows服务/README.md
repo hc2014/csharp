@@ -38,7 +38,7 @@
         }
         
 ```
-注意:在SubmitOrder方法中有一个*Thread.Sleep(10000)*这个并非多余,反而是很有用的,后面讲调试的时候会来说明！
+注意:在SubmitOrder方法中有一个**Thread.Sleep(10000)**这个并非多余,反而是很有用的,后面讲调试的时候会来说明！
 
 
 
@@ -57,7 +57,20 @@ InstallUtil C:\Users\hc\Desktop\工作目录\esAPI\DotNet.CommonV4.1\PushTradeSe
 ###3.卸载服务
 InstallUtil /u C:\Users\hc\Desktop\工作目录\esAPI\DotNet.CommonV4.1\PushTradeService\bin\Debug\PushTradeService.exe
 
-注意:这个时候执行可能会报一个错误:*System.Security.SecurityException: 未找到源,但未能搜索某些或全部事件日志。*
+注意:这个时候执行可能会报一个错误:**System.Security.SecurityException: 未找到源,但未能搜索某些或全部事件日志。**
 
 碰见这个错误的话,右键项目->管理员权限.去执行就可以了.但是我自己这边的源代码(Visual Stadio)右键菜单,没有"管理员权限"这个菜单！
 所以我是把上面的命令写成一个.bat(批处理文件).这样问题就解决了！
+
+#四.查看window服务
+###1.开始菜单->运行->services.msc
+###2.控制面板-->管理工具-->服务
+可以在服务里面手动开启、停止服务,当然也是可以写命令来的
+
+>开启:net statr PushTradeService
+>停止:net stop PushTradeService
+然后把上面2句话分别保存成为bat文件即可!
+
+
+#五.调试window服务
+
