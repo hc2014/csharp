@@ -42,3 +42,22 @@
 
 
 
+#二.添加window服务安装程序
+###1.打开Service1.cs【设计】页面，点击右键，选择【添加安装程序】，会出现serviceInstaller1和serviceProcessInstaller1两个组件
+###2.将serviceProcessInstaller1的Account属性设为【LocalSystem】.
+###3.serviceInstaller1的StartType属性设为【Automatic】，ServiceName属性设置服务名称，此后在【管理工具】--》【服务】中即显示此名称
+
+
+#三.安装、卸载window服务
+###1.输入cmd(命令行)
+ 4.0框架：cd C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319
+ 2.0框架：cd C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727
+###2.安装服务（项目生成的exe文件路径）
+InstallUtil C:\Users\hc\Desktop\工作目录\esAPI\DotNet.CommonV4.1\PushTradeService\bin\Debug\PushTradeService.exe
+###3.卸载服务
+InstallUtil /u C:\Users\hc\Desktop\工作目录\esAPI\DotNet.CommonV4.1\PushTradeService\bin\Debug\PushTradeService.exe
+
+注意:这个时候执行可能会报一个错误:*System.Security.SecurityException: 未找到源,但未能搜索某些或全部事件日志。*
+
+碰见这个错误的话,右键项目->管理员权限.去执行就可以了.但是我自己这边的源代码(Visual Stadio)右键菜单,没有"管理员权限"这个菜单！
+所以我是把上面的命令写成一个.bat(批处理文件).这样问题就解决了！
