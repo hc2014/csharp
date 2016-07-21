@@ -71,7 +71,7 @@
 ###3.当然也是可以写命令来的
 >开启:net statr PushTradeService</br>
 >停止:net stop PushTradeService
-然后把上面2句话分别保存成为bat文件即可!
+然后把上面2句话分别保存成为bat文件,然后用管理员权限去执行即可！
 
 
 #五.调试window服务
