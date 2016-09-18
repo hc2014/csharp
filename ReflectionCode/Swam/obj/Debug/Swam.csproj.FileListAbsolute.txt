@@ -1,0 +1,5 @@
+C:\Users\hc\Documents\GitHub\csharp\ReflectionCode\Swam\bin\Debug\Swam.dll
+C:\Users\hc\Documents\GitHub\csharp\ReflectionCode\Swam\bin\Debug\Swam.pdb
+C:\Users\hc\Documents\GitHub\csharp\ReflectionCode\Swam\obj\Debug\Swam.csprojResolveAssemblyReference.cache
+C:\Users\hc\Documents\GitHub\csharp\ReflectionCode\Swam\obj\Debug\Swam.dll
+C:\Users\hc\Documents\GitHub\csharp\ReflectionCode\Swam\obj\Debug\Swam.pdb

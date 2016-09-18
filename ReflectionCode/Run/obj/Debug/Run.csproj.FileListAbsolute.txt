@@ -1,0 +1,5 @@
+C:\Users\hc\Documents\GitHub\csharp\ReflectionCode\Run\bin\Debug\Run.dll
+C:\Users\hc\Documents\GitHub\csharp\ReflectionCode\Run\bin\Debug\Run.pdb
+C:\Users\hc\Documents\GitHub\csharp\ReflectionCode\Run\obj\Debug\Run.csprojResolveAssemblyReference.cache
+C:\Users\hc\Documents\GitHub\csharp\ReflectionCode\Run\obj\Debug\Run.dll
+C:\Users\hc\Documents\GitHub\csharp\ReflectionCode\Run\obj\Debug\Run.pdb

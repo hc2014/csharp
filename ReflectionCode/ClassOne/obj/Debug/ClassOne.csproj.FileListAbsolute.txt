@@ -2,3 +2,4 @@ E:\hc\新建文件夹\ReflectionCode\ClassOne\bin\Debug\ClassOne.dll
 E:\hc\新建文件夹\ReflectionCode\ClassOne\bin\Debug\ClassOne.pdb
 E:\hc\新建文件夹\ReflectionCode\ClassOne\obj\Debug\ClassOne.dll
 E:\hc\新建文件夹\ReflectionCode\ClassOne\obj\Debug\ClassOne.pdb
+E:\hc\新建文件夹\ReflectionCode\ClassOne\obj\Debug\ClassOne.csprojResolveAssemblyReference.cache
