@@ -24,7 +24,7 @@ namespace Unit
             switch (comboBox1.Text)
             {
                 case"天空":
-                     Assembly objAss = Assembly.LoadFrom(@"E:\hc\新建文件夹\ReflectionCode\插件机制\bin\Debug\Fly.dll");
+                    Assembly objAss = Assembly.LoadFrom(@"E:\hc\新建文件夹\ReflectionCode\Fly\bin\Debug\Fly.dll");
 
                      Type t = objAss.GetType("Fly.Fly");
 
@@ -38,7 +38,7 @@ namespace Unit
                     richTextBox1.Text += objRetval.ToString();
                     break;
                 case "大海":
-                    Assembly objAss2 = Assembly.LoadFrom(@"E:\hc\新建文件夹\ReflectionCode\插件机制\bin\Debug\Swam.dll");
+                    Assembly objAss2 = Assembly.LoadFrom(@"E:\hc\新建文件夹\ReflectionCode\Swam\bin\Debug\Swam.dll");
 
                     Type t2 = objAss2.GetType("Swam.Swam");
 
@@ -54,7 +54,7 @@ namespace Unit
                     break;
                 case "大地":
                     //dll的路径
-                    Assembly objAss3 = Assembly.LoadFrom(@"E:\hc\新建文件夹\ReflectionCode\插件机制\bin\Debug\Run.dll");
+                    Assembly objAss3 = Assembly.LoadFrom(@"E:\hc\新建文件夹\ReflectionCode\Run\bin\Debug\Run.dll");
 
                     Type t3 = objAss3.GetType("Run.Run");
 

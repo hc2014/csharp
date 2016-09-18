@@ -74,20 +74,6 @@
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\Fly\Fly.csproj">
-      <Project>{c96b338d-39f3-474f-82c0-daa9008915bc}</Project>
-      <Name>Fly</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Run\Run.csproj">
-      <Project>{f4b442dc-a4a8-4757-8e46-254e329af7d2}</Project>
-      <Name>Run</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Swam\Swam.csproj">
-      <Project>{93ee102d-2b43-4397-b376-02316404c060}</Project>
-      <Name>Swam</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

@@ -4,12 +4,6 @@ C:\Users\hc\Documents\GitHub\csharp\ReflectionCode\插件机制\obj\Debug\Unit.c
 C:\Users\hc\Documents\GitHub\csharp\ReflectionCode\插件机制\obj\Debug\插件机制.exe
 C:\Users\hc\Documents\GitHub\csharp\ReflectionCode\插件机制\bin\Debug\插件机制.exe
 C:\Users\hc\Documents\GitHub\csharp\ReflectionCode\插件机制\bin\Debug\插件机制.pdb
-C:\Users\hc\Documents\GitHub\csharp\ReflectionCode\插件机制\bin\Debug\Fly.dll
-C:\Users\hc\Documents\GitHub\csharp\ReflectionCode\插件机制\bin\Debug\Run.dll
-C:\Users\hc\Documents\GitHub\csharp\ReflectionCode\插件机制\bin\Debug\Swam.dll
-C:\Users\hc\Documents\GitHub\csharp\ReflectionCode\插件机制\bin\Debug\Fly.pdb
-C:\Users\hc\Documents\GitHub\csharp\ReflectionCode\插件机制\bin\Debug\Run.pdb
-C:\Users\hc\Documents\GitHub\csharp\ReflectionCode\插件机制\bin\Debug\Swam.pdb
 C:\Users\hc\Documents\GitHub\csharp\ReflectionCode\插件机制\obj\Debug\插件机制.pdb
 C:\Users\hc\Documents\GitHub\csharp\ReflectionCode\插件机制\obj\Debug\Unit.csprojResolveAssemblyReference.cache
 E:\hc\新建文件夹\ReflectionCode\插件机制\obj\Debug\插件机制.exe
