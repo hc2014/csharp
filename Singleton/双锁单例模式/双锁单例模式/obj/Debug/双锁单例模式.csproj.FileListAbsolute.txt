@@ -1,0 +1,6 @@
+E:\hc\新建文件夹\双锁单例模式\双锁单例模式\bin\Debug\双锁单例模式.exe.config
+E:\hc\新建文件夹\双锁单例模式\双锁单例模式\bin\Debug\双锁单例模式.exe
+E:\hc\新建文件夹\双锁单例模式\双锁单例模式\bin\Debug\双锁单例模式.pdb
+E:\hc\新建文件夹\双锁单例模式\双锁单例模式\obj\Debug\双锁单例模式.csprojResolveAssemblyReference.cache
+E:\hc\新建文件夹\双锁单例模式\双锁单例模式\obj\Debug\双锁单例模式.exe
+E:\hc\新建文件夹\双锁单例模式\双锁单例模式\obj\Debug\双锁单例模式.pdb
