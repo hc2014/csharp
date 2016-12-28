@@ -3,6 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication2", "ConsoleApplication2\ConsoleApplication2.csproj", "{CAB0BCDB-5EF7-400E-A13A-0EE5C5FE563A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "显示接口隐式接口", "显示接口隐式接口\显示接口隐式接口.csproj", "{FD2928AB-37BF-4E0B-BCB0-9A9F234793DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "显示调用接口Demo", "显示调用接口Demo\显示调用接口Demo.csproj", "{7B83ADD6-AF67-4E38-90AA-C3CBB3620B5C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +17,14 @@ Global
 		{CAB0BCDB-5EF7-400E-A13A-0EE5C5FE563A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CAB0BCDB-5EF7-400E-A13A-0EE5C5FE563A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CAB0BCDB-5EF7-400E-A13A-0EE5C5FE563A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD2928AB-37BF-4E0B-BCB0-9A9F234793DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD2928AB-37BF-4E0B-BCB0-9A9F234793DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD2928AB-37BF-4E0B-BCB0-9A9F234793DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD2928AB-37BF-4E0B-BCB0-9A9F234793DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B83ADD6-AF67-4E38-90AA-C3CBB3620B5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B83ADD6-AF67-4E38-90AA-C3CBB3620B5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B83ADD6-AF67-4E38-90AA-C3CBB3620B5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B83ADD6-AF67-4E38-90AA-C3CBB3620B5C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

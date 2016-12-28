@@ -9,3 +9,4 @@ C:\Users\hc\Documents\GitHub\csharp\接口\Interface\ConsoleApplication2\obj\Deb
 C:\Users\hc\Documents\GitHub\csharp\接口\Interface\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
 C:\Users\hc\Documents\GitHub\csharp\接口\Interface\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
 C:\Users\hc\Documents\GitHub\csharp\接口\Interface\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\hc\Documents\GitHub\csharp\接口\Interface\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache

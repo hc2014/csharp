@@ -1,0 +1,6 @@
+C:\Users\hc\Documents\GitHub\csharp\接口\Interface\显示调用接口Demo\bin\Debug\显示调用接口Demo.exe.config
+C:\Users\hc\Documents\GitHub\csharp\接口\Interface\显示调用接口Demo\bin\Debug\显示调用接口Demo.exe
+C:\Users\hc\Documents\GitHub\csharp\接口\Interface\显示调用接口Demo\bin\Debug\显示调用接口Demo.pdb
+C:\Users\hc\Documents\GitHub\csharp\接口\Interface\显示调用接口Demo\obj\Debug\显示调用接口Demo.csprojResolveAssemblyReference.cache
+C:\Users\hc\Documents\GitHub\csharp\接口\Interface\显示调用接口Demo\obj\Debug\显示调用接口Demo.exe
+C:\Users\hc\Documents\GitHub\csharp\接口\Interface\显示调用接口Demo\obj\Debug\显示调用接口Demo.pdb
