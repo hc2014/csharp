@@ -4,3 +4,6 @@ E:\hc\新建文件夹\AttributeDemo\AttributeDemo\bin\Debug\AttributeDemo.pdb
 E:\hc\新建文件夹\AttributeDemo\AttributeDemo\obj\Debug\AttributeDemo.csprojResolveAssemblyReference.cache
 E:\hc\新建文件夹\AttributeDemo\AttributeDemo\obj\Debug\AttributeDemo.exe
 E:\hc\新建文件夹\AttributeDemo\AttributeDemo\obj\Debug\AttributeDemo.pdb
+C:\Users\hc\Documents\GitHub\csharp\特性\AttributeDemo\bin\Debug\AttributeDemo.exe.config
+C:\Users\hc\Documents\GitHub\csharp\特性\AttributeDemo\obj\Debug\AttributeDemo.exe
+C:\Users\hc\Documents\GitHub\csharp\特性\AttributeDemo\obj\Debug\AttributeDemo.pdb
