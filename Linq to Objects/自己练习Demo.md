@@ -117,3 +117,11 @@ namespace ConsoleApplication1
 }
 
 ```
+
+
+###Lambda 用 GroupBy分组求某一列的Sum
+```
+dt.AsEnumerable().GroupBy(r => r["ShopName"])
+                        .Select(group => new { ShopName = group.Key, SumCount = group.Sum(item => Convert.ToInt32(item["SellCount"])) })
+```
+重点在于 **group.Sum(item => Convert.ToInt32(item["SellCount"]))**这一句
