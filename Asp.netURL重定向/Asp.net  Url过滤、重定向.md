@@ -121,3 +121,10 @@ public void Init(HttpApplication application)
 这些方法 代表的是 请求的不同阶段，可以根据需求再不同的阶段做URL拦截，有一点需要注意的是
 
 Session对象在BeginRequest阶段中是没有的，在AcquireRequestState及其以后阶段中才有的
+
+a、BenginRequest和EndRequest分别是HttpModule容器最开始的和最后的事件；
+b、EndRequest之后还会触发PreSendRequestHeaders事件和PreSendRequestContent事件，这不是在HttpModule外的两个事件，表示HttpModule结束，即将开始向Client发送数据
+
+
+
+参考:https://www.cnblogs.com/jeffwongishandsome/archive/2009/07/20/1513527.html
