@@ -64,9 +64,13 @@ namespace FilterUrl
 
 
 
-注意，add name="pageModule" type="FilterUrl.PageFilter"/> 中 type 应该填写完整的路径（之前只是填写了PageFilter，一直提示无法加载PageFilter模块）
+注意，add name="pageModule" type="FilterUrl.PageFilter"/> 
 
+a、name可以随意指定，没有影响。
 
+b、type有两个参数，第一个表示具体哪个类，第二个表示是哪个dll。
+
+网上很多地方 type 写了2个参数,我测试的时候写一个参数也能执行
 
 此时直接F5启动项目的话会报一个500.22的错误
 
