@@ -114,7 +114,9 @@ public void Init(HttpApplication application)
         }
 ```
 
- application 对象调用的是 RequestState方法，其实application  对象中还有好多其他方法，**AcquireRequestState，还有诸如BeginRequest、AuthenticateRequest、AuthorizeRequest、ResolveRequestCache、AcquireRequestState、PreRequestHandlerExecute、PostRequestHandlerExecute、ReleaseRequestState、UpdateRequestCache、EndRequest**
+ application 对象调用的是 RequestState方法，其实application  对象中还有好多其他方法，
+
+![](img/1.gif)
 
 这些方法 代表的是 请求的不同阶段，可以根据需求再不同的阶段做URL拦截，有一点需要注意的是
 
