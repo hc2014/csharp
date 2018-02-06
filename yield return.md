@@ -46,7 +46,7 @@ static IEnumerable<int> FilterWithoutYield()
 ```
 static void Main(string[] args)
 {
-  var list = FilterWithYield();[3,4]
+  var list = FilterWithYield();//[3,4]
 }
 ```
 
