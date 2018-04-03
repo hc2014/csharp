@@ -20,6 +20,19 @@ static IEnumerable<int> FilterWithoutYield()
 }
 ```
 
+调用：
+
+```
+ var list = FilterWithoutYield();
+
+foreach (var item in list)
+{
+	Console.WriteLine(item);
+}
+```
+
+在断点调试list的时候，显示他有两个元素[3,4]
+
 
 
 用yield return 实现
@@ -44,11 +57,24 @@ static IEnumerable<int> FilterWithoutYield()
 调用的时候调试list,直接就包含了3，4 这两个元素
 
 ```
-static void Main(string[] args)
+var list = FilterWithYield();
+foreach (var item in list)
 {
-  var list = FilterWithYield();//[3,4]
+	Console.WriteLine(item);
 }
 ```
+
+在Console.WriteLine(item);这里断点,
+
+第一次循环list对象的值：
+
+![](img/1.png)
+
+第二次循环list对象的值:
+
+![](img/2.png)
+
+
 
 
 
