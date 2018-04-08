@@ -89,6 +89,8 @@ namespace 反射优化
 
             getValueMethod.DefineParameter(1, ParameterAttributes.In, "target");
             var getFunc = (Func<User, string>)getValueMethod.CreateDelegate(typeof(Func<User, string>));
+            u.Age = "26";
+
             var age=getFunc(u);
 
             Console.ReadKey();
