@@ -16,13 +16,13 @@ namespace 反射优化
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("固定赋值{0}", "-".PadRight(30, '-'));
-            test("123");
-            Console.WriteLine("GUID赋值{0}", "-".PadRight(30, '-'));
-            test(Guid.NewGuid().ToString());
+            //Console.WriteLine("固定赋值{0}", "-".PadRight(30, '-'));
+            //test("123");
+            //Console.WriteLine("GUID赋值{0}", "-".PadRight(30, '-'));
+            //test(Guid.NewGuid().ToString());
 
 
-            //User u = new User();
+            User u = new User();
             //PropertyInfo p = typeof(User).GetProperty("Age");
             //if (p.CanWrite)
             //{
@@ -32,6 +32,32 @@ namespace 反射优化
             //设置属性的值
             //MethodInfo setAge = p.GetSetMethod(true);
             //setAge.Invoke(u, new object[] { "26" });
+
+            //利用表达式树 设置属性的值
+            //var property = typeof(User).GetProperty("Age");
+            //var target = Expression.Parameter(typeof(User));
+            //var propertyValue = Expression.Parameter(typeof(string),"age");
+            //var setPropertyValue = Expression.Call(target, property.GetSetMethod(), propertyValue);
+            //var setAction = Expression.Lambda<Action<User, string>>(setPropertyValue, target, propertyValue).Compile();
+            //setAction(u, "26");
+
+
+
+            //用Emit 实现上面同样的代码
+            //var property = typeof(User).GetProperty("Age");
+            //DynamicMethod method = new DynamicMethod("SetValue", null, new Type[] { typeof(User), typeof(string) });
+            //ILGenerator ilGenerator = method.GetILGenerator();
+            //ilGenerator.Emit(OpCodes.Ldarg_0);
+            //ilGenerator.Emit(OpCodes.Ldarg_1);
+            //ilGenerator.EmitCall(OpCodes.Callvirt, property.GetSetMethod(), null);
+            //ilGenerator.Emit(OpCodes.Ret);
+
+            //method.DefineParameter(1, ParameterAttributes.In, "obj");
+            //method.DefineParameter(2, ParameterAttributes.In, "value");
+            //var setAction = (Action<User, string>)method.CreateDelegate(typeof(Action<User, string>));
+            //setAction(u, "26");
+
+
 
 
             //利用委托获取属性的值
@@ -52,6 +78,18 @@ namespace 反射优化
             //string age = getAge(u);
 
 
+            //用Emit的方式实现 获取属性
+            var getpProperty = typeof(User).GetProperty("Age");
+            DynamicMethod getValueMethod = new DynamicMethod("GetValue", typeof(string), new Type[] { typeof(User) });
+
+            ILGenerator ilGenerator = getValueMethod.GetILGenerator();
+            ilGenerator.Emit(OpCodes.Ldarg_0);
+            ilGenerator.EmitCall(OpCodes.Callvirt, getpProperty.GetGetMethod(), null);
+            ilGenerator.Emit(OpCodes.Ret);
+
+            getValueMethod.DefineParameter(1, ParameterAttributes.In, "target");
+            var getFunc = (Func<User, string>)getValueMethod.CreateDelegate(typeof(Func<User, string>));
+            var age=getFunc(u);
 
             Console.ReadKey();
         }

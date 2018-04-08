@@ -6,3 +6,11 @@ c:\users\hc\documents\visual studio 2017\Projects\反射优化\反射优化\obj\
 c:\users\hc\documents\visual studio 2017\Projects\反射优化\反射优化\obj\Debug\反射优化.pdb
 c:\users\hc\documents\visual studio 2017\Projects\反射优化\反射优化\bin\Debug\Newtonsoft.Json.dll
 c:\users\hc\documents\visual studio 2017\Projects\反射优化\反射优化\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HC\Documents\GitHub\csharp\反射优化\反射优化\bin\Debug\反射优化.exe.config
+C:\Users\HC\Documents\GitHub\csharp\反射优化\反射优化\bin\Debug\反射优化.exe
+C:\Users\HC\Documents\GitHub\csharp\反射优化\反射优化\bin\Debug\反射优化.pdb
+C:\Users\HC\Documents\GitHub\csharp\反射优化\反射优化\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HC\Documents\GitHub\csharp\反射优化\反射优化\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HC\Documents\GitHub\csharp\反射优化\反射优化\obj\Debug\反射优化.csprojResolveAssemblyReference.cache
+C:\Users\HC\Documents\GitHub\csharp\反射优化\反射优化\obj\Debug\反射优化.exe
+C:\Users\HC\Documents\GitHub\csharp\反射优化\反射优化\obj\Debug\反射优化.pdb
