@@ -8,9 +8,9 @@ using System.Runtime.Remoting.Messaging;
 namespace Calculator
 {
     //AOP方法处理类,实现了IMessageSink接口,以便返回给IContributeObjectSink接口的GetObjectSink方法
-    public sealed class MyAopHandler:IMessageSink
+    public sealed class MyAopHandler : IMessageSink
     {
-       
+
         //下一个接收器
         private IMessageSink nextSink;
 
@@ -42,6 +42,9 @@ namespace Calculator
             {
                 PreProceed(msg);
                 message = nextSink.SyncProcessMessage(msg);
+                IMethodReturnMessage returnMessage = message as System.Runtime.Remoting.Messaging.IMethodReturnMessage;
+
+
                 PostProceed(message);
             }
 
@@ -64,7 +67,7 @@ namespace Calculator
             Console.WriteLine("这个方法一共有{0}个参数:", message.ArgCount);
             for (int i = 0; i < message.ArgCount; i++)
             {
-                Console.WriteLine("参数{0}：值: {1}.",i+1,message.Args[i]);
+                Console.WriteLine("参数{0}：值: {1}.", i + 1, message.Args[i]);
             }
         }
 
@@ -74,6 +77,13 @@ namespace Calculator
             IMethodReturnMessage message = (IMethodReturnMessage)msg;
 
             Console.WriteLine("方法的返回值: {0}", message.ReturnValue);
+
+
+            if (message.Exception != null)
+            {
+                Console.WriteLine("发生了异常:{0}", message.Exception.Message);
+            }
+
             Console.WriteLine("方法结束\n");
         }
     }

@@ -12,33 +12,41 @@ namespace AopAttributeCalculatorClient
     {
         static void Main(string[] args)
         {
-            //实例化Calculator类
-            Calculator.Calculator calculator = new Calculator.Calculator();
-            calculator.X = 10;
-            calculator.Y = 20;
+            ////实例化Calculator类
+            //Calculator.Calculator calculator = new Calculator.Calculator();
+            //calculator.X = 10;
+            //calculator.Y = 20;
 
-            CalculatorHandler handler = new CalculatorHandler();
-            //贴上标签的方法
-            handler.Add(calculator.X, calculator.Y);
-            handler.substract(calculator);
-            //没有贴上标签的方法
-            handler.Mutiply(30, 40);
-            handler.Divide(calculator);
+            //CalculatorHandler handler = new CalculatorHandler();
+            ////贴上标签的方法
+            //handler.Add(calculator.X, calculator.Y);
+            //handler.substract(calculator);
+            ////没有贴上标签的方法
+            //handler.Mutiply(30, 40);
+            //handler.Divide(calculator);
 
             //Communication直接继承 ContextBoundObject，这个类更简洁
             //实例化Communition类
             Communication com = new Communication();
-            com.SayBye();
-            com.SayHello();
+            //com.SayBye();
+            //com.SayHello();
+            try
+            {
+                com.GetPrice();
+            }
+            catch (Exception)
+            {
+
+            }
 
             Console.ReadKey();
-        }      
+        }
     }
 
     //贴上类的标签
     [MyCalculator]
     //一定要继承ContextBoundObject类
-    public class Communication:ContextBoundObject
+    public class Communication : ContextBoundObject
     {
         public Communication()
         { }
@@ -52,6 +60,13 @@ namespace AopAttributeCalculatorClient
         public void SayBye()
         {
             Console.WriteLine("bye!");
+        }
+
+        [MyCalculatorMethod]
+        public int GetPrice()
+        {
+            var a = "a";
+            return Convert.ToInt32(a);
         }
     }
 

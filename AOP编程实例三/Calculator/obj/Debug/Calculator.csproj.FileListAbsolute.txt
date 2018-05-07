@@ -7,3 +7,7 @@ C:\Users\HC\Desktop\AopAttributePractice\Calculator\bin\Debug\Calculator.dll
 C:\Users\HC\Desktop\AopAttributePractice\Calculator\bin\Debug\Calculator.pdb
 C:\Users\HC\Desktop\AopAttributePractice\Calculator\obj\Debug\Calculator.dll
 C:\Users\HC\Desktop\AopAttributePractice\Calculator\obj\Debug\Calculator.pdb
+C:\Users\HC\Documents\GitHub\csharp\AOP编程实例三\Calculator\bin\Debug\Calculator.dll
+C:\Users\HC\Documents\GitHub\csharp\AOP编程实例三\Calculator\bin\Debug\Calculator.pdb
+C:\Users\HC\Documents\GitHub\csharp\AOP编程实例三\Calculator\obj\Debug\Calculator.dll
+C:\Users\HC\Documents\GitHub\csharp\AOP编程实例三\Calculator\obj\Debug\Calculator.pdb
