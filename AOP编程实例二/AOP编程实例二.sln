@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26403.7
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AOP编程实例二", "AOP编程实例二\AOP编程实例二.csproj", "{B4773C7F-1C8A-43C1-AB0E-A7041F2878A2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AOPClassLibrary", "AOPClassLibrary\AOPClassLibrary.csproj", "{233EC173-C870-4DCA-AEB3-30138703EC26}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B4773C7F-1C8A-43C1-AB0E-A7041F2878A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4773C7F-1C8A-43C1-AB0E-A7041F2878A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4773C7F-1C8A-43C1-AB0E-A7041F2878A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{233EC173-C870-4DCA-AEB3-30138703EC26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{233EC173-C870-4DCA-AEB3-30138703EC26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{233EC173-C870-4DCA-AEB3-30138703EC26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{233EC173-C870-4DCA-AEB3-30138703EC26}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
