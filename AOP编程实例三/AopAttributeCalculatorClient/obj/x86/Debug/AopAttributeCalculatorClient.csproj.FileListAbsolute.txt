@@ -1,0 +1,14 @@
+E:\visual stduio 2010文件\我的WCF之旅\AOP\AOP_5\AopAttributePractice\AopAttributeCalculatorClient\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\visual stduio 2010文件\我的WCF之旅\AOP\AOP_5\AopAttributePractice\AopAttributeCalculatorClient\bin\Debug\AopAttributeCalculatorClient.exe
+E:\visual stduio 2010文件\我的WCF之旅\AOP\AOP_5\AopAttributePractice\AopAttributeCalculatorClient\bin\Debug\AopAttributeCalculatorClient.pdb
+E:\visual stduio 2010文件\我的WCF之旅\AOP\AOP_5\AopAttributePractice\AopAttributeCalculatorClient\bin\Debug\Calculator.dll
+E:\visual stduio 2010文件\我的WCF之旅\AOP\AOP_5\AopAttributePractice\AopAttributeCalculatorClient\bin\Debug\Calculator.pdb
+E:\visual stduio 2010文件\我的WCF之旅\AOP\AOP_5\AopAttributePractice\AopAttributeCalculatorClient\obj\x86\Debug\AopAttributeCalculatorClient.exe
+E:\visual stduio 2010文件\我的WCF之旅\AOP\AOP_5\AopAttributePractice\AopAttributeCalculatorClient\obj\x86\Debug\AopAttributeCalculatorClient.pdb
+C:\Users\HC\Desktop\AopAttributePractice\AopAttributeCalculatorClient\bin\Debug\Calculator.dll
+C:\Users\HC\Desktop\AopAttributePractice\AopAttributeCalculatorClient\bin\Debug\Calculator.pdb
+C:\Users\HC\Desktop\AopAttributePractice\AopAttributeCalculatorClient\obj\x86\Debug\AopAttributeCalculatorClient.csprojResolveAssemblyReference.cache
+C:\Users\HC\Desktop\AopAttributePractice\AopAttributeCalculatorClient\bin\Debug\AopAttributeCalculatorClient.exe
+C:\Users\HC\Desktop\AopAttributePractice\AopAttributeCalculatorClient\bin\Debug\AopAttributeCalculatorClient.pdb
+C:\Users\HC\Desktop\AopAttributePractice\AopAttributeCalculatorClient\obj\x86\Debug\AopAttributeCalculatorClient.exe
+C:\Users\HC\Desktop\AopAttributePractice\AopAttributeCalculatorClient\obj\x86\Debug\AopAttributeCalculatorClient.pdb
