@@ -18,6 +18,10 @@ using Microsoft.Practices.Unity;
 using Microsoft.Practices.Unity.InterceptionExtension;
 ```
 
+在捕获异常信息的例子中，代码调试的时候 这里会断点不执行，拖动断点让，代码继续执行，就会拦截到异常信息
+
+
+
 
 
 [AOP编程顺利三](https://github.com/hc2014/csharp/tree/master/AOP%E7%BC%96%E7%A8%8B%E5%AE%9E%E4%BE%8B%E4%B8%89)  是利用特性来拦截方法信息，其中最重要的一个特性类是**ContextBoundObject** 
