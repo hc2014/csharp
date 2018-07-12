@@ -1,1 +1,10 @@
 C:\Users\hc\Documents\GitHub\csharp\异步编程\异步编程\bin\Debug\异步编程.exe.config
+C:\Users\HC\Documents\GitHub\csharp\异步编程\异步编程\bin\Debug\异步编程.exe
+C:\Users\HC\Documents\GitHub\csharp\异步编程\异步编程\bin\Debug\异步编程.pdb
+C:\Users\HC\Documents\GitHub\csharp\异步编程\异步编程\obj\Debug\异步编程.csprojAssemblyReference.cache
+C:\Users\HC\Documents\GitHub\csharp\异步编程\异步编程\obj\Debug\异步编程.Form1.resources
+C:\Users\HC\Documents\GitHub\csharp\异步编程\异步编程\obj\Debug\异步编程.Properties.Resources.resources
+C:\Users\HC\Documents\GitHub\csharp\异步编程\异步编程\obj\Debug\异步编程.csproj.GenerateResource.cache
+C:\Users\HC\Documents\GitHub\csharp\异步编程\异步编程\obj\Debug\异步编程.csproj.CoreCompileInputs.cache
+C:\Users\HC\Documents\GitHub\csharp\异步编程\异步编程\obj\Debug\异步编程.exe
+C:\Users\HC\Documents\GitHub\csharp\异步编程\异步编程\obj\Debug\异步编程.pdb
