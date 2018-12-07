@@ -50,34 +50,18 @@ openssl x509 -in ca.crt -pubkey
 
 1. [Java与.NET兼容的RSA密钥持久化方法](https://www.bbsmax.com/A/x9J2ZyDnJ6/)
 
-   默认情况下,.NET生成的RSA密钥对可以用XML或字节流来保存,而JAVA中生成的RSA密钥对只能用字节流来保存.而它们的字节流格式不同,就导致Java中生成的RSA密钥对不能在.NET中使用,而. ...
-
 2. [RSA密钥之C#格式与Java格式转换](https://www.bbsmax.com/A/A7zg1lW54n/)
-
-   前言 最近由于项目需求,服务端由c#编写,客户端由java编写.通信数据使用RSA非对称加密.但是java和c#生成的密钥格式是不一样的,所以需要转换格式才可以正常使用.网上搜到使用java进行格式转 ...
 
 3. [RSA密钥生成与使用](https://www.bbsmax.com/A/kjdwXbjzNp/)
 
-   RSA密钥生成与使用 openssl生成工具链接:http://pan.baidu.com/s/1c0v3UxE 密码:uv48 1. 打开openssl密钥生成软件打开 openssl 文件夹下的  ...
-
 4. [https://www.bbsmax.com/A/QV5ZZo75yb/](https://www.bbsmax.com/A/QV5ZZo75yb/)
-
-   最近在做银联的一个接口,用到RSA签名,悲剧来了,.net用的RSA密钥格式和JAVA用的不一样 .net为XML格式 <RSAKeyValue><Modulus>53Knuj ...
 
 5. [JAVA，NET RSA密钥格式转换](https://www.bbsmax.com/A/Gkz1opLg5R/)
 
-   JAVA和NET RSA密钥格式相互转换(公钥,私钥) 做了一个小项目遇到java和.net非对称加密问题,java的公钥和私钥就直接是一个字符串的形式展示的,但是.net是以xml简单包裹形式展示的 ...
-
 6. [Atitit.rsa密钥生成器的attilax总结](https://www.bbsmax.com/A/A7zgvW6Pd4/)
-
-   Atitit.rsa密钥生成器的attilax总结 1.1. 密钥生成器 1 1.2. 生成固定的密钥 2 1.2.1. 设置或重置 SecureRandom 对象的随机数种子 2 1.3. 密钥结构 ...
 
 7. [cmd命令进行RSA 密钥加密操作](https://www.bbsmax.com/A/pRdBrO41dn/)
 
-   --参考 http://msdn.microsoft.com/zh-cn/library/2w117ede http://msdn.microsoft.com/zh-cn/library/yxw286 ...
-
 8. [.NET Core RSA密钥的xml、pkcs1、pkcs8格式转换和JavaScript、Java等语言进行对接](https://www.bbsmax.com/A/o75NXA9ezW/)
-
-   众所周知在.NET下的RSA类所生成的密钥为Xml格式,而其他语言比如java一般使用pkcs8格式的密钥,JavaScript一般使用pkcs1格式.我们在开发过程中很可能遇到需要与其他语言开发的a ...
 
 9. [RSA加密(跨平台通用的)](https://www.bbsmax.com/A/kPzOGPW7zx/)
