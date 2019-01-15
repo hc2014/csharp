@@ -1,0 +1,11 @@
+C:\Users\hc\Desktop\WebKit.NET-0.5-src\WebKitBrowser\obj\Debug\WebKit.Properties.Resources.resources
+C:\Users\hc\Desktop\WebKit.NET-0.5-src\WebKitBrowser\obj\Debug\WebKit.WebKitBrowser.resources
+C:\Users\hc\Desktop\WebKit.NET-0.5-src\WebKitBrowser\obj\Debug\WebKitBrowser.csproj.GenerateResource.cache
+C:\Users\hc\Desktop\WebKit.NET-0.5-src\WebKitBrowser\obj\Debug\WebKitBrowser.csproj.CoreCompileInputs.cache
+C:\Users\hc\Desktop\WebKit.NET-0.5-src\bin\Debug\WebKitBrowser.dll.manifest
+C:\Users\hc\Desktop\WebKit.NET-0.5-src\bin\Debug\WebKitBrowser.dll.config
+C:\Users\hc\Desktop\WebKit.NET-0.5-src\bin\Debug\WebKitBrowser.dll
+C:\Users\hc\Desktop\WebKit.NET-0.5-src\bin\Debug\WebKitBrowser.pdb
+C:\Users\hc\Desktop\WebKit.NET-0.5-src\WebKitBrowser\obj\Debug\WebKitBrowser.csproj.CopyComplete
+C:\Users\hc\Desktop\WebKit.NET-0.5-src\WebKitBrowser\obj\Debug\WebKitBrowser.dll
+C:\Users\hc\Desktop\WebKit.NET-0.5-src\WebKitBrowser\obj\Debug\WebKitBrowser.pdb
