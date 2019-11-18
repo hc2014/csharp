@@ -22,3 +22,28 @@ c:\users\hc\documents\visual studio 2017\Projects\IOC\IOC\bin\Debug\Unity.Interc
 c:\users\hc\documents\visual studio 2017\Projects\IOC\IOC\bin\Debug\Unity.Interception.Configuration.pdb
 c:\users\hc\documents\visual studio 2017\Projects\IOC\IOC\bin\Debug\Unity.RegistrationByConvention.pdb
 c:\users\hc\documents\visual studio 2017\Projects\IOC\IOC\bin\Debug\Unity.ServiceLocation.pdb
+D:\github\csharp\IOC\IOC\bin\Debug\IOC.exe.config
+D:\github\csharp\IOC\IOC\bin\Debug\IOC.exe
+D:\github\csharp\IOC\IOC\bin\Debug\IOC.pdb
+D:\github\csharp\IOC\IOC\bin\Debug\CommonServiceLocator.dll
+D:\github\csharp\IOC\IOC\bin\Debug\DAL.dll
+D:\github\csharp\IOC\IOC\bin\Debug\Unity.Abstractions.dll
+D:\github\csharp\IOC\IOC\bin\Debug\Unity.Configuration.dll
+D:\github\csharp\IOC\IOC\bin\Debug\Unity.Container.dll
+D:\github\csharp\IOC\IOC\bin\Debug\Unity.Interception.Configuration.dll
+D:\github\csharp\IOC\IOC\bin\Debug\Unity.Interception.dll
+D:\github\csharp\IOC\IOC\bin\Debug\Unity.RegistrationByConvention.dll
+D:\github\csharp\IOC\IOC\bin\Debug\Unity.ServiceLocation.dll
+D:\github\csharp\IOC\IOC\bin\Debug\DAL.pdb
+D:\github\csharp\IOC\IOC\bin\Debug\CommonServiceLocator.pdb
+D:\github\csharp\IOC\IOC\bin\Debug\Unity.Abstractions.pdb
+D:\github\csharp\IOC\IOC\bin\Debug\Unity.Configuration.pdb
+D:\github\csharp\IOC\IOC\bin\Debug\Unity.Container.pdb
+D:\github\csharp\IOC\IOC\bin\Debug\Unity.Interception.pdb
+D:\github\csharp\IOC\IOC\bin\Debug\Unity.Interception.Configuration.pdb
+D:\github\csharp\IOC\IOC\bin\Debug\Unity.RegistrationByConvention.pdb
+D:\github\csharp\IOC\IOC\bin\Debug\Unity.ServiceLocation.pdb
+D:\github\csharp\IOC\IOC\obj\Debug\IOC.csprojAssemblyReference.cache
+D:\github\csharp\IOC\IOC\obj\Debug\IOC.csproj.CopyComplete
+D:\github\csharp\IOC\IOC\obj\Debug\IOC.exe
+D:\github\csharp\IOC\IOC\obj\Debug\IOC.pdb
