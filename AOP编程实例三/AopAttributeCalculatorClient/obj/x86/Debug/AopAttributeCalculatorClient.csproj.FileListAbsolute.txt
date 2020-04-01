@@ -19,3 +19,12 @@ C:\Users\HC\Documents\GitHub\csharp\AOP编程实例三\AopAttributeCalculatorCli
 C:\Users\HC\Documents\GitHub\csharp\AOP编程实例三\AopAttributeCalculatorClient\obj\x86\Debug\AopAttributeCalculatorClient.csprojResolveAssemblyReference.cache
 C:\Users\HC\Documents\GitHub\csharp\AOP编程实例三\AopAttributeCalculatorClient\obj\x86\Debug\AopAttributeCalculatorClient.exe
 C:\Users\HC\Documents\GitHub\csharp\AOP编程实例三\AopAttributeCalculatorClient\obj\x86\Debug\AopAttributeCalculatorClient.pdb
+E:\GitHub\csharp\AOP编程实例三\AopAttributeCalculatorClient\bin\Debug\AopAttributeCalculatorClient.exe
+E:\GitHub\csharp\AOP编程实例三\AopAttributeCalculatorClient\bin\Debug\AopAttributeCalculatorClient.pdb
+E:\GitHub\csharp\AOP编程实例三\AopAttributeCalculatorClient\bin\Debug\Calculator.dll
+E:\GitHub\csharp\AOP编程实例三\AopAttributeCalculatorClient\bin\Debug\Calculator.pdb
+E:\GitHub\csharp\AOP编程实例三\AopAttributeCalculatorClient\obj\x86\Debug\AopAttributeCalculatorClient.csprojAssemblyReference.cache
+E:\GitHub\csharp\AOP编程实例三\AopAttributeCalculatorClient\obj\x86\Debug\AopAttributeCalculatorClient.csproj.CoreCompileInputs.cache
+E:\GitHub\csharp\AOP编程实例三\AopAttributeCalculatorClient\obj\x86\Debug\AopAttributeCalculatorClient.csproj.CopyComplete
+E:\GitHub\csharp\AOP编程实例三\AopAttributeCalculatorClient\obj\x86\Debug\AopAttributeCalculatorClient.exe
+E:\GitHub\csharp\AOP编程实例三\AopAttributeCalculatorClient\obj\x86\Debug\AopAttributeCalculatorClient.pdb

@@ -11,6 +11,20 @@ namespace ClassOne
         {
             return x + y;
         }
+
+        public enum Color
+        {
+            Red=1,
+            Yellow=2,
+            Blue=3
+        }
+
+        enum State
+        {
+            Run=1,
+            Stop=2,
+            Reset=3
+        }
     }
 
     class ChangeValue

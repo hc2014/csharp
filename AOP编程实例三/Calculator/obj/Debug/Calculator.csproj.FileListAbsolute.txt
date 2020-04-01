@@ -11,3 +11,9 @@ C:\Users\HC\Documents\GitHub\csharp\AOP编程实例三\Calculator\bin\Debug\Calc
 C:\Users\HC\Documents\GitHub\csharp\AOP编程实例三\Calculator\bin\Debug\Calculator.pdb
 C:\Users\HC\Documents\GitHub\csharp\AOP编程实例三\Calculator\obj\Debug\Calculator.dll
 C:\Users\HC\Documents\GitHub\csharp\AOP编程实例三\Calculator\obj\Debug\Calculator.pdb
+E:\GitHub\csharp\AOP编程实例三\Calculator\bin\Debug\Calculator.dll
+E:\GitHub\csharp\AOP编程实例三\Calculator\bin\Debug\Calculator.pdb
+E:\GitHub\csharp\AOP编程实例三\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+E:\GitHub\csharp\AOP编程实例三\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\GitHub\csharp\AOP编程实例三\Calculator\obj\Debug\Calculator.dll
+E:\GitHub\csharp\AOP编程实例三\Calculator\obj\Debug\Calculator.pdb

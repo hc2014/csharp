@@ -7,3 +7,10 @@ E:\hc\新建文件夹\AttributeDemo\AttributeDemo\obj\Debug\AttributeDemo.pdb
 C:\Users\hc\Documents\GitHub\csharp\特性\AttributeDemo\bin\Debug\AttributeDemo.exe.config
 C:\Users\hc\Documents\GitHub\csharp\特性\AttributeDemo\obj\Debug\AttributeDemo.exe
 C:\Users\hc\Documents\GitHub\csharp\特性\AttributeDemo\obj\Debug\AttributeDemo.pdb
+E:\GitHub\csharp\特性\AttributeDemo\bin\Debug\AttributeDemo.exe.config
+E:\GitHub\csharp\特性\AttributeDemo\bin\Debug\AttributeDemo.exe
+E:\GitHub\csharp\特性\AttributeDemo\bin\Debug\AttributeDemo.pdb
+E:\GitHub\csharp\特性\AttributeDemo\obj\Debug\AttributeDemo.csprojAssemblyReference.cache
+E:\GitHub\csharp\特性\AttributeDemo\obj\Debug\AttributeDemo.csproj.CoreCompileInputs.cache
+E:\GitHub\csharp\特性\AttributeDemo\obj\Debug\AttributeDemo.exe
+E:\GitHub\csharp\特性\AttributeDemo\obj\Debug\AttributeDemo.pdb

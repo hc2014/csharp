@@ -5,3 +5,12 @@ E:\练习Demo\AOP编程实力一\AOP编程实力一\bin\Debug\AOP编程实力一
 E:\练习Demo\AOP编程实力一\AOP编程实力一\bin\Debug\KingAOP.dll
 E:\练习Demo\AOP编程实力一\AOP编程实力一\obj\Debug\AOP编程实力一.exe
 E:\练习Demo\AOP编程实力一\AOP编程实力一\obj\Debug\AOP编程实力一.pdb
+E:\GitHub\csharp\AOP编程实力一\AOP编程实力一\bin\Debug\AOP编程实力一.exe.config
+E:\GitHub\csharp\AOP编程实力一\AOP编程实力一\bin\Debug\AOP编程实力一.exe
+E:\GitHub\csharp\AOP编程实力一\AOP编程实力一\bin\Debug\AOP编程实力一.pdb
+E:\GitHub\csharp\AOP编程实力一\AOP编程实力一\bin\Debug\KingAOP.dll
+E:\GitHub\csharp\AOP编程实力一\AOP编程实力一\obj\Debug\AOP编程实力一.csprojAssemblyReference.cache
+E:\GitHub\csharp\AOP编程实力一\AOP编程实力一\obj\Debug\AOP编程实力一.csproj.CoreCompileInputs.cache
+E:\GitHub\csharp\AOP编程实力一\AOP编程实力一\obj\Debug\AOP编程实力一.csproj.CopyComplete
+E:\GitHub\csharp\AOP编程实力一\AOP编程实力一\obj\Debug\AOP编程实力一.exe
+E:\GitHub\csharp\AOP编程实力一\AOP编程实力一\obj\Debug\AOP编程实力一.pdb

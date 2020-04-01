@@ -13,6 +13,7 @@ namespace AttributeDemo
         {
             //ObsoleteMethon();
             NewMethon();
+            Console.ReadLine();
         }
 
         [Obsolete("这个方法已经过时了,请使用NewMethon方法")]
