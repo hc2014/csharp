@@ -3,3 +3,7 @@ c:\Users\HC\documents\visual studio 2017\Projects\IOC\DAL\bin\Debug\DAL.pdb
 c:\Users\HC\documents\visual studio 2017\Projects\IOC\DAL\obj\Debug\DAL.dll
 c:\Users\HC\documents\visual studio 2017\Projects\IOC\DAL\obj\Debug\DAL.pdb
 c:\Users\HC\documents\visual studio 2017\Projects\IOC\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\github\csharp\IOC\DAL\bin\Debug\DAL.dll
+D:\github\csharp\IOC\DAL\bin\Debug\DAL.pdb
+D:\github\csharp\IOC\DAL\obj\Debug\DAL.dll
+D:\github\csharp\IOC\DAL\obj\Debug\DAL.pdb

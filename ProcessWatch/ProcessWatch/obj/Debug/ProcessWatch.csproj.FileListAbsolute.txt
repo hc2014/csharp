@@ -1,0 +1,9 @@
+D:\work\ProcessWatch\ProcessWatch\bin\Debug\ProcessWatch.exe.config
+D:\work\ProcessWatch\ProcessWatch\bin\Debug\ProcessWatch.exe
+D:\work\ProcessWatch\ProcessWatch\bin\Debug\ProcessWatch.pdb
+D:\work\ProcessWatch\ProcessWatch\obj\Debug\ProcessWatch.exe
+D:\work\ProcessWatch\ProcessWatch\obj\Debug\ProcessWatch.pdb
+D:\work\ProcessWatch\ProcessWatch\bin\Debug\Newtonsoft.Json.dll
+D:\work\ProcessWatch\ProcessWatch\bin\Debug\Newtonsoft.Json.xml
+D:\work\ProcessWatch\ProcessWatch\obj\Debug\ProcessWatch.csproj.CopyComplete
+D:\work\ProcessWatch\ProcessWatch\obj\Debug\ProcessWatch.csprojAssemblyReference.cache

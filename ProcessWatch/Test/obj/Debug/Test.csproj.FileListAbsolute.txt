@@ -1,0 +1,9 @@
+D:\work\ProcessWatch\Test\bin\Debug\Test.exe.config
+D:\work\ProcessWatch\Test\bin\Debug\Test.exe
+D:\work\ProcessWatch\Test\bin\Debug\Test.pdb
+D:\work\ProcessWatch\Test\bin\Debug\Newtonsoft.Json.dll
+D:\work\ProcessWatch\Test\bin\Debug\Newtonsoft.Json.xml
+D:\work\ProcessWatch\Test\obj\Debug\Test.csprojAssemblyReference.cache
+D:\work\ProcessWatch\Test\obj\Debug\Test.csproj.CopyComplete
+D:\work\ProcessWatch\Test\obj\Debug\Test.exe
+D:\work\ProcessWatch\Test\obj\Debug\Test.pdb
