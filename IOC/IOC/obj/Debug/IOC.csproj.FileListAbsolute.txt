@@ -22,3 +22,6 @@ c:\users\hc\documents\visual studio 2017\Projects\IOC\IOC\bin\Debug\Unity.Interc
 c:\users\hc\documents\visual studio 2017\Projects\IOC\IOC\bin\Debug\Unity.Interception.Configuration.pdb
 c:\users\hc\documents\visual studio 2017\Projects\IOC\IOC\bin\Debug\Unity.RegistrationByConvention.pdb
 c:\users\hc\documents\visual studio 2017\Projects\IOC\IOC\bin\Debug\Unity.ServiceLocation.pdb
+E:\GitHub\csharp\IOC\IOC\bin\Debug\IOC.exe.config
+E:\GitHub\csharp\IOC\IOC\obj\Debug\IOC.exe
+E:\GitHub\csharp\IOC\IOC\obj\Debug\IOC.pdb
